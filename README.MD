@@ -16,8 +16,8 @@
 ## Step-by-Step Instructions
 
 ### 1. Log in & Open EC2 Dashboard
-1. Sign in to the [AWS Management Console](https://console.aws.amazon.com/) and ensure you’re in your preferred AWS Region (e.g., `us-east-1`) :contentReference[oaicite:0]{index=0}.  
-2. In the services search bar, type **EC2** and open the EC2 Dashboard :contentReference[oaicite:1]{index=1}.
+1. Sign in to the [AWS Management Console](https://console.aws.amazon.com/) and ensure you’re in your preferred AWS Region (e.g., `us-east-1`).  
+2. In the services search bar, type **EC2** and open the EC2 Dashboard.
 
 ### 2. Launch a Windows Server 2022 Instance
 1. Click **Launch Instance**.  
@@ -54,3 +54,4 @@
 - **Automation**: Explore **EC2Launch v2** configuration for automated tasks.
 
 ---
+
