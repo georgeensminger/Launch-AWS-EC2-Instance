@@ -1,5 +1,4 @@
-#Watch Me Build The Lab Here
-
+# Watch Me Build The Lab HERE
 https://www.loom.com/share/df837cff93794d09a0a961419d782e6b?sid=f860509b-d3eb-46f7-9089-a25781caee0a
 
 # Lab: Launching an AWS EC2 Windows Server 2022 Instance
@@ -58,6 +57,7 @@ https://www.loom.com/share/df837cff93794d09a0a961419d782e6b?sid=f860509b-d3eb-46
 - **Automation**: Explore **EC2Launch v2** configuration for automated tasks.
 
 ---
+
 
 
 
